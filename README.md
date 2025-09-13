@@ -5,19 +5,19 @@ NNTM is a password manager application to store login credentials
 # Author
 Anika Varsha Shekar - @AnikaShekar
 
-# features
+# Features
 - Password masking & show/hide toggle
 - Copy to clipboard
 - Delete functionality
 - Duplicate prevention
 - Responsive
 
-# screenshots
-![Page1](screenshots/op1.png)
-![Page2](screenshots/op2.png)
+# Screenshots
+![Page1](Screenshots/op1.png)
+![Page2](Screenshots/op2.png)
 
 
-# project Structure
+# Project Structure
 ├── index.html 
 ├── style.css 
 ├── script.js
